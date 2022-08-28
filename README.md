@@ -67,8 +67,8 @@
 # 🌎 페이지 구성(시나리오)
 
 ## 🕹️ 게임 시작 화면
+![시작화면](https://user-images.githubusercontent.com/102416954/187072284-5e74e26c-8f17-485d-bb30-fbf982c64d3b.jpg)
 
-![시작화면.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/eca61e2b-28c4-4b3c-80bc-1bbbfd194932/%EC%8B%9C%EC%9E%91%ED%99%94%EB%A9%B4.jpg)
 
 ## 🕹️ 게임 진행 화면
 
