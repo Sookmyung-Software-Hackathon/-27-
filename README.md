@@ -73,18 +73,20 @@
 ## 🕹️ 게임 진행 화면
 
 <주인공 ‘나송’ 대화창>
+![Uploading 대화.png…]()
 
-![대화.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6b515196-11c8-4ca2-9acf-27f93c4fecae/%EB%8C%80%ED%99%94.png)
 
 <반려 식물 물 주기 게임>
 
-![게임화면.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5ffdb600-d5f3-4d3d-b9c2-ace8833603fd/%EA%B2%8C%EC%9E%84%ED%99%94%EB%A9%B4.png)
+![게임화면](https://user-images.githubusercontent.com/102416954/187072114-f440afbb-4507-477f-b79e-7b93df03853c.png)
 
 <분리수거 퀴즈 게임>
+
 ![Uploading 게임화면3.png…]()
 
 
 <친환경 상품 고르기 게임>
+
 ![게임화면2](https://user-images.githubusercontent.com/102416954/187072073-87987771-5b81-4eda-bba9-7422c0d11df7.png)
 
 
