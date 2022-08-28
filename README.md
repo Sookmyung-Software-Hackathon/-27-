@@ -67,8 +67,27 @@
 # 🌎 페이지 구성(시나리오)
 
 ## 🕹️ 게임 시작 화면
-![start](https://user-images.githubusercontent.com/93965468/187069780-37c1814d-d591-44a7-9909-b40901b0c8a1.PNG)
+
+![시작화면.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/eca61e2b-28c4-4b3c-80bc-1bbbfd194932/%EC%8B%9C%EC%9E%91%ED%99%94%EB%A9%B4.jpg)
 
 ## 🕹️ 게임 진행 화면
 
+<주인공 ‘나송’ 대화창>
+
+![대화.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6b515196-11c8-4ca2-9acf-27f93c4fecae/%EB%8C%80%ED%99%94.png)
+
+<반려 식물 물 주기 게임>
+
+![게임화면.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5ffdb600-d5f3-4d3d-b9c2-ace8833603fd/%EA%B2%8C%EC%9E%84%ED%99%94%EB%A9%B4.png)
+
+<분리수거 퀴즈 게임>
+
+![게임화면3.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/49f7c49b-8ca4-406b-9f4d-54af0bde1df1/%EA%B2%8C%EC%9E%84%ED%99%94%EB%A9%B43.png)
+
+<친환경 상품 고르기 게임>
+
+![게임화면2.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7436bdc0-0513-4464-b1c4-b383968f2a9f/%EA%B2%8C%EC%9E%84%ED%99%94%EB%A9%B42.png)
+
 ## 🕹️ 게임 종료 화면
+
+![게임 종료.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/eaba770f-0289-4ef6-8c21-573646b1bd3c/%EA%B2%8C%EC%9E%84_%EC%A2%85%EB%A3%8C.png)
