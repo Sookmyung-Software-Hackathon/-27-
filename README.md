@@ -81,13 +81,12 @@
 ![게임화면.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5ffdb600-d5f3-4d3d-b9c2-ace8833603fd/%EA%B2%8C%EC%9E%84%ED%99%94%EB%A9%B4.png)
 
 <분리수거 퀴즈 게임>
+![Uploading 게임화면3.png…]()
 
-![게임화면3.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/49f7c49b-8ca4-406b-9f4d-54af0bde1df1/%EA%B2%8C%EC%9E%84%ED%99%94%EB%A9%B43.png)
 
 <친환경 상품 고르기 게임>
+![게임화면2](https://user-images.githubusercontent.com/102416954/187072073-87987771-5b81-4eda-bba9-7422c0d11df7.png)
 
-![게임화면2.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7436bdc0-0513-4464-b1c4-b383968f2a9f/%EA%B2%8C%EC%9E%84%ED%99%94%EB%A9%B42.png)
 
 ## 🕹️ 게임 종료 화면
-
-![게임 종료.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/eaba770f-0289-4ef6-8c21-573646b1bd3c/%EA%B2%8C%EC%9E%84_%EC%A2%85%EB%A3%8C.png)
+![게임 종료](https://user-images.githubusercontent.com/102416954/187072067-60102a91-fade-426d-a600-be492ffedbe7.png)
