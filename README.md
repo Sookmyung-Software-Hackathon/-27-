@@ -79,7 +79,7 @@
 
 <반려 식물 물 주기 게임>
 
-![게임화면](https://user-images.githubusercontent.com/102416954/187072114-f440afbb-4507-477f-b79e-7b93df03853c.png)
+![game5](https://user-images.githubusercontent.com/93965468/187073243-cecd719c-cc94-42e8-9ff7-8996ed2af4f4.PNG)
 
 <분리수거 퀴즈 게임>
 
