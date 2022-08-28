@@ -76,10 +76,12 @@
 
 ![대화](https://user-images.githubusercontent.com/102416954/187072202-fb95966a-da95-4573-b07c-817d919af4c7.png)
 
-
 <반려 식물 물 주기 게임>
 
 ![game5](https://user-images.githubusercontent.com/93965468/187073243-cecd719c-cc94-42e8-9ff7-8996ed2af4f4.PNG)
+
+<사용하지 않는 플러그 뽑기 게임>
+![뽑기](https://user-images.githubusercontent.com/102416954/187073378-35320396-1eb0-41a6-905f-c0c8f49ff7e6.png)
 
 <분리수거 퀴즈 게임>
 
